@@ -50,4 +50,4 @@ It helps e-learning platforms or educational institutions understand which cours
 > Add a screenshot of your Power BI dashboard here.  
 Example:
 ```markdown
-![Dashboard Preview](assets/dashboard_preview.png)
+![https://github.com/Sharmi007/Online_Courses_Analysis/blob/main/assets/dashboard_preview.png Preview](assets/dashboard_preview.png)
