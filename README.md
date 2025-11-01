@@ -47,6 +47,6 @@ It helps e-learning platforms or educational institutions understand which cours
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_https://github.com/Sharmi007/Online_Courses_Analysis/blob/main/assets/dashboard_preview.png)
+![Dashboard Preview](https://github.com/Sharmi007/Online_Courses_Analysis/blob/main/dashboard_preview.png)
 
 
